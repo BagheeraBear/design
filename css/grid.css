@@ -1,0 +1,38 @@
+.last{
+	margin-right: 0 !important;
+}
+
+.grid1-1{
+	width: 100%;
+	float: left;
+}
+
+.grid1-2{
+	width: 45%;
+	margin-right: 10%;
+	float:left;
+}
+
+.grid1-3{
+	width: 30%;
+	margin-right: 5%;
+	float:left;
+}
+
+.grid2-3{
+	width:60%;
+	margin-right: 10%;
+	float: left;
+}
+
+.grid1-4{
+	width: 21.25%;
+	margin-right: 5%;
+}
+
+@media (max-width: 767px) {
+	div[class^="grid"]{
+		width: 100%;
+		margin-right: 0;		
+	}
+}

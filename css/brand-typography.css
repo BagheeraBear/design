@@ -1,0 +1,35 @@
+.brand-heading{
+    font-size: 60px;
+    font-family: Helvetica;
+    line-height: 70px;
+    color: #333;
+    font-weight: 200;
+    display: block;
+}
+
+.brand-secondary-heading{
+    font-size: 30px;
+    font-family: Helvetica;
+    line-height: 50px;
+    color: #333;
+    font-weight: 200;
+    display: block;
+}
+
+.brand-label{
+    font-size: 18px;
+    font-family: Helvetica;
+    line-height: 30px;
+    color: #5c5c5c;
+    font-weight: 400;
+    display: block;
+}
+
+.brand-paragraph{
+    font-size: 14px;
+    font-family: Helvetica;
+    line-height: 30px;
+    color: #333;
+    font-weight: 400;
+    display: block;
+}

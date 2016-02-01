@@ -1,0 +1,35 @@
+.app-heading{
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: Arial;
+    line-height: 30px;
+    color: #3b3b3b;
+    font-weight: bold;
+    display: block;
+}
+
+.app-secondary-heading{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-family: Arial;
+    line-height: 30px;
+    color: #3b3b3b;
+    font-weight: bold;
+    display: block;
+}
+
+.app-label{
+    font-size: 12px;
+    font-family: Arial;
+    line-height: 30px;
+    color: #606060;
+    display: block;
+}
+
+.app-paragraph{
+    font-size: 12px;
+    font-family: Arial;
+    line-height: 30px;
+    color: #111111;
+    display: block;
+}
